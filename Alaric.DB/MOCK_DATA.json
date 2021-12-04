@@ -1,0 +1,12 @@
+[ 
+{"sym":"CCL","tradeprice":37.91,"tradesize":19,"partid":"t"},
+{"sym":"BITA","tradeprice":72.29,"tradesize":19,"partid":"g"},
+{"sym":"BFIN","tradeprice":48.94,"tradesize":11,"partid":"m"},
+{"sym":"TMK^B","tradeprice":16.4,"tradesize":1,"partid":"n"},
+{"sym":"SON","tradeprice":98.17,"tradesize":59,"partid":"m"},
+{"sym":"ISM","tradeprice":27.18,"tradesize":16,"partid":"f"},
+{"sym":"NQ","tradeprice":91.44,"tradesize":27,"partid":"k"},
+{"sym":"GFA","tradeprice":13.3,"tradesize":95,"partid":"c"},
+{"sym":"GBL","tradeprice":84.56,"tradesize":17,"partid":"m"},
+{"sym":"HWBK","tradeprice":96.58,"tradesize":10,"partid":"m"}, 
+{"sym":"CNCE","tradeprice":99.36,"tradesize":35,"partid":"k"}]

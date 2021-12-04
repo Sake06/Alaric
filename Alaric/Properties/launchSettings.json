@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:63494"
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "/swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "Alaric": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "/swagger",
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "BaseOptions:ApplicationId": "3c852d14-a11d-4311-bd47-03db0b983f44",
+        "RabbitMq:UserName": "user",
+        "RabbitMq:Password": "password",
+        "RabbitMq:ConsumeQueueName": "Queue1",
+        "RabbitMq:PublishQueueName": "Queue2",
+        "RabbitMq:Hostname": "localhost",
+        "RabbitMq:Port": "5672"
+      }
+    }
+  }
+}
